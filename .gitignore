@@ -1,0 +1,13 @@
+# ESP-IDF default build directory name
+build/
+
+# VS Code Settings
+.vscode/
+
+# Dev Container Settings
+.devcontainer/
+
+# sdkconfig file
+sdkconfig
+sdkconfig.old
+
