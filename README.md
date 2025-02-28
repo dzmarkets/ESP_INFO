@@ -5,7 +5,7 @@ This project is a basic example of using ESP-IDF to get information about the ES
 ## How to Use
 
 1. **Set up ESP-IDF:** Follow the instructions at [https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html) to set up ESP-IDF.
-2. **Clone this repository:** `git clone https://github.com/your-username/ESP_INFO.git`
+2. **Clone this repository:** `git clone https://github.com/dzmarkets/ESP_INFO.git`
 3. **Build and flash:**
    - `cd ESP_INFO`
    - `idf.py build`
