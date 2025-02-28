@@ -21,4 +21,4 @@ Feel free to submit pull requests or issues if you have any improvements or find
 
 ## License
 
-This project is licensed under the GPL-3 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL-3 License
